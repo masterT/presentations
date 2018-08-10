@@ -6,7 +6,7 @@
 ## Simon Thiboutôt
 
 <p align='center'>
-  <img alt='Bundler logo' width='100' src='./assets/images/ruby-logo.png'/>
+  <img alt='Ruby logo' width='100' src='./assets/images/ruby-logo.png'/>
 </p>
 
 ---
@@ -21,7 +21,11 @@ Simon Thiboutôt
 
 Dévelopeur Ruby on Rails chez [Kimoby](https://www.kimoby.com/) depuis 2014.
 
-> Kimoby is a web-based communication platform that helps businesses instantly connect with their customers through texting messaging.
+<p align='left'>
+  <img alt='Kimoby logo' src='./assets/images/kimoby-logo.png'/>
+</p>
+
+Kimoby is a web-based communication platform that helps businesses instantly connect with their customers through texting messaging.
 
 ---
 
@@ -499,7 +503,7 @@ list.find { |number| number.even? }
 # RubyGems
 
 <p align='center'>
-  <img alt='Bundler logo' width='100' src='./assets/images/rubygems-logo.png'/>
+  <img alt='RubyGems logo' width='100' src='./assets/images/rubygems-logo.png'/>
 </p>
 
 Gestionnaire de paquets sophistiqué pour Ruby.
