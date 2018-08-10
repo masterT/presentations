@@ -566,3 +566,13 @@ bundle install # ou simplement `bundle`
 Ceci générera aussi un fichier `Gemfile.lock` contenant les noms et versions exacts nécéssaires au projet.
 
 _NOTE: Il est essentiel de version le fichier `Gemfile` et `Gemfile.lock`._
+
+---
+
+## Challenge
+
+Faire une _gem_ qui expose l'API gratuit de Google Translate incluant un _CLI_.
+
+Code source de départ [https://github.com/masterT/google-translate](https://github.com/masterT/google-translate).
+
+<iframe src="https://giphy.com/embed/d4zHnLjdy48Cc" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
