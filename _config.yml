@@ -1,0 +1,12 @@
+title: Presentations
+presentations:
+  - title: "introduction-to-ruby"
+    date: "2018-08-10"
+    description: "An introduction to the Ruby language in French."
+
+baseurl: "/presentations"
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

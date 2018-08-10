@@ -1,0 +1,19 @@
+---
+title: "Presentations"
+layout: default
+---
+
+<h1>Presentations</h1>
+
+<div class="presentations">
+  <div class="presentation">
+    {% for presentation in site.presentations %}
+      <h2>{{ presentation.title }}</h2>
+      <p>{{ presentation.date }}</p>
+      <p>{{ presentation.description }}</p>
+      <p>
+        <a href="{{ site.baseurl }}/presentations/{{ presentation.title }}">slides</a>
+      </p>
+    {% endfor %}
+  </div>
+</div>
