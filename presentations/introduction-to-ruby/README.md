@@ -573,6 +573,6 @@ _NOTE: Il est essentiel de version le fichier `Gemfile` et `Gemfile.lock`._
 
 Faire une _gem_ qui expose l'API gratuit de Google Translate incluant un _CLI_.
 
-Code source de départ [https://github.com/masterT/google-translate](https://github.com/masterT/google-translate).
+Code source de départ [https://github.com/masterT/google-translate/tree/challenge](https://github.com/masterT/google-translate/tree/challenge).
 
 <iframe src="https://giphy.com/embed/d4zHnLjdy48Cc" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
