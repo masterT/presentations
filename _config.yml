@@ -1,5 +1,8 @@
 title: Presentations
 presentations:
+  - title: "world-wide-web"
+    date: "2020-04-10"
+    description: "A gentle instroduction to the World Wide Web."
   - title: "introduction-to-ruby"
     date: "2018-08-10"
     description: "An introduction to the Ruby language in French."
